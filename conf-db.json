@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://gitlab.com/itp5/esv-ue3/blob/master/ad.ps1"],
+  "commandToExecute": ".\ad.ps1"
+}

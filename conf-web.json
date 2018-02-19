@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://gitlab.com/itp5/esv-ue2/raw/master/webserver/install-webserver.sh"],
+  "commandToExecute": "bash install-webserver.sh > /home/azureuser/install.log"
+}
